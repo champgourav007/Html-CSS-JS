@@ -34,7 +34,7 @@ h1{
 	font-weight: bold;
 	font-size:24px;
 	background-color: green;
-	margin-left:70;
+	margin-left:70%;
 }
 #safed{
 	background-color: red;
@@ -42,7 +42,7 @@ h1{
 	text-align: center;
 	font-weight: bold;
 	font-size: 24px;
-	margin-left:60;
+	margin-left:60%;
 }
 p {
 	text-align: center;
